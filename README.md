@@ -5,6 +5,8 @@
 ## Demo 
 https://handsondataviz.github.io/chartjs-scatter/
 
+https://laurelap.github.io/Practice-scatter-chartJS/
+
 Sample data by TrendCT, NY Times, Stanford Ed Data Archive, American Community Survey
 
 ## Create your own
