@@ -5,9 +5,9 @@
 ## Demo 
 https://handsondataviz.github.io/chartjs-scatter/
 
-https://laurelap.github.io/Practice-scatter-chartJS/
-
 Sample data by TrendCT, NY Times, Stanford Ed Data Archive, American Community Survey
+
+https://laurelap.github.io/Practice-scatter-chartJS/
 
 ## Create your own
 See chapter 10: Chart.js and Highcharts templates in [Hands-On Data Visualization](https://handsondataviz.org) by Jack Dougherty and Ilya Ilyankou.
